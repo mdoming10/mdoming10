@@ -10,7 +10,7 @@ Currently, I am open to associate technical writer/junior technical writer roles
 - Contributing documentation to open-source projects
 
 ## How to reach me
-- [LinkedIn](www.linkedin.com/in/mauricio-dominguez)
+- [LinkedIn] (www.linkedin.com/in/mauricio-dominguez)
 
 
 
