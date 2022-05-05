@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi, I'm Mauricio.
 
-<!--
-**mdoming10/mdoming10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who I am
+I am an analytical, creative, and highly empathetic communications professional with strong skills in research, writing, and editing. I have experience planning and managing communications projects and working with subject matter experts and cross-functional teams. I am skilled in writing, copyediting, and proofreading, and I am passionate about translating technical and specialized information into written products for lay audiences.
 
-Here are some ideas to get you started:
+Currently, I am open to associate technical writer/junior technical writer roles. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm focused on
+- Learning web development tools through the Odin Project
+- Contributing documentation to open-source projects
+
+## How to reach me
+- [LinkedIn](www.linkedin.com/in/mauricio-dominguez)
+
+
+
+
