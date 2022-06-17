@@ -6,6 +6,7 @@ Analytical, creative, and highly empathetic communications professional with str
 Currently, I am open to associate technical writer/junior technical writer roles. 
 
 ## What I'm focused on
+- Learning technical writing skills and tools
 - Learning web development tools through the Odin Project
 - Contributing documentation to open-source projects
 
