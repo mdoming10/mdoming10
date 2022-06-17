@@ -7,7 +7,7 @@ Currently, I am open to associate technical writer/junior technical writer roles
 
 ## Eductation
 Bachelor of Science, University of Illinois at Urbana-Champaign<br>
-**Summa Cum Laude**
+*Summa Cum Laude*
 
 ## Experience
 - Communications Associate, ZERO TO THREE, 2019-2021
