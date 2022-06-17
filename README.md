@@ -6,7 +6,7 @@ Analytical, creative, and highly empathetic communications professional with str
 Currently, I am open to associate technical writer/junior technical writer roles. 
 
 ## Eductation
-Bachelor of Science, University of Illinois at Urbana-Champaign 
+Bachelor of Science, University of Illinois at Urbana-Champaign<br>
 **Summa Cum Laude**
 
 ## Experience
