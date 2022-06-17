@@ -1,9 +1,18 @@
 # Hi, I'm Mauricio.
 
 ## Who I am
-I am an analytical, creative, and highly empathetic communications professional with strong skills in research, writing, and editing. I have experience planning and managing communications projects and working with subject matter experts and cross-functional teams. I am skilled in writing, copyediting, and proofreading, and I am passionate about translating technical and specialized information into written products for lay audiences.
+Analytical, creative, and highly empathetic communications professional with strong skills in research, writing, and editing. Experienced in planning and managing communications projects and working with subject matter experts and cross-functional teams. Passionate about translating technical and specialized information into written products for lay audiences.
 
 Currently, I am open to associate technical writer/junior technical writer roles. 
+
+## Eductation
+Bachelor of Science, University of Illinois at Urbana-Champaign 
+*Summa Cum Laude**
+
+## Experience
+Communications Associate, ZERO TO THREE - 2019-2021
+Research Assistant, University of Maryland at College Park - 2016-2019
+Help Desk Support, Westat - 2016
 
 ## What I'm focused on
 - Learning web development tools through the Odin Project
