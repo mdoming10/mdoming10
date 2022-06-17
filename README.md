@@ -5,10 +5,6 @@ Analytical, creative, and highly empathetic communications professional with str
 
 Currently, I am open to associate technical writer/junior technical writer roles. 
 
-**Education**<br>
-Bachelor of Science, University of Illinois at Urbana-Champaign<br> 
-*Summa Cum Laude*
-
 ## What I'm focused on
 - Learning web development tools through the Odin Project
 - Contributing documentation to open-source projects
