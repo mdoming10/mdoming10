@@ -1,7 +1,7 @@
 # Hi, I'm Mauricio.
 
 ## Who I am
-Analytical, creative, and highly empathetic communications professional with strong skills in research, writing, and editing. Experienced in planning and managing communications projects and working with subject matter experts and cross-functional teams. Passionate about translating technical and specialized information into written products for lay audiences.  
+Analytical, creative, and highly empathetic communications professional with strong skills in research, writing, and editing. Experienced in planning and managing communications projects and working with subject matter experts and cross-functional teams. 
 
 Currently, I am open to associate technical writer/junior technical writer roles. 
 
