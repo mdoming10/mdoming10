@@ -7,12 +7,12 @@ Currently, I am open to associate technical writer/junior technical writer roles
 
 ## Eductation
 Bachelor of Science, University of Illinois at Urbana-Champaign 
-*Summa Cum Laude**
+**Summa Cum Laude**
 
 ## Experience
-Communications Associate, ZERO TO THREE - 2019-2021
-Research Assistant, University of Maryland at College Park - 2016-2019
-Help Desk Support, Westat - 2016
+- Communications Associate, ZERO TO THREE, 2019-2021
+- Research Assistant, University of Maryland at College Park, 2016-2019
+- Help Desk Support, Westat, 2016
 
 ## What I'm focused on
 - Learning web development tools through the Odin Project
