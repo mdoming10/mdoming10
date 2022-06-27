@@ -5,7 +5,7 @@ Analytical, creative, and highly empathetic communications professional with str
 
 Currently, I am open to associate technical writer roles. 
 
-**[See my portfolio for writing samples](https://mdoming10.github.io/my-personal-site/)**.
+> **[See my portfolio for writing samples](https://mdoming10.github.io/my-personal-site/)**.
 
 ## What I'm focused on
 - Contributing documentation to open-source projects
