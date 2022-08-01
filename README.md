@@ -3,8 +3,6 @@
 ## Who I am
 Analytical, creative, and highly empathetic communications professional with strong skills in research, writing, and editing. Experienced in planning and managing communications projects and working with subject matter experts and cross-functional teams. 
 
-Currently, I am open to associate technical writer roles. 
-
 > **[See my portfolio](https://mdoming10.github.io/my-personal-site/)**.
 
 ## What I'm focused on
